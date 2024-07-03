@@ -1,5 +1,15 @@
-# soapvsrest
+### soapvsrest
 
+To run this application:
+
+Install the required dependencies:
+```
+pip install fastapi uvicorn lxml
+```
+Run the server:
+```
+python3 main.py (use venv)
+```
 REST API Commands:
 
 1. Create an item:
